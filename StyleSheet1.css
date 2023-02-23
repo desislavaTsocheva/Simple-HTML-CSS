@@ -1,0 +1,22 @@
+﻿body
+{
+   background-color:lightgrey;
+}
+.nav {
+    text-align: center;
+    background-color:lightskyblue;
+    font-size: 26px;
+    font-family:'Times New Roman';
+    word-spacing:40px;
+}
+p{
+    font-size:27px;
+}
+img{
+    width:350px;
+    height:280px;
+}
+img{
+    float:left;
+    margin:20px;
+}
