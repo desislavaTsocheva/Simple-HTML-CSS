@@ -1,0 +1,8 @@
+C:\Users\viole\OneDrive\Работен плот\HTML\RegistrationFormOnHTML+CSS\RegistrationFormOnHTML+CSS\bin\Debug\RegistrationFormOnHTML+CSS.exe.config
+C:\Users\viole\OneDrive\Работен плот\HTML\RegistrationFormOnHTML+CSS\RegistrationFormOnHTML+CSS\bin\Debug\RegistrationFormOnHTML+CSS.exe
+C:\Users\viole\OneDrive\Работен плот\HTML\RegistrationFormOnHTML+CSS\RegistrationFormOnHTML+CSS\bin\Debug\RegistrationFormOnHTML+CSS.pdb
+C:\Users\viole\OneDrive\Работен плот\HTML\RegistrationFormOnHTML+CSS\RegistrationFormOnHTML+CSS\obj\Debug\RegistrationFormOnHTML+CSS.csproj.AssemblyReference.cache
+C:\Users\viole\OneDrive\Работен плот\HTML\RegistrationFormOnHTML+CSS\RegistrationFormOnHTML+CSS\obj\Debug\RegistrationFormOnHTML+CSS.csproj.SuggestedBindingRedirects.cache
+C:\Users\viole\OneDrive\Работен плот\HTML\RegistrationFormOnHTML+CSS\RegistrationFormOnHTML+CSS\obj\Debug\RegistrationFormOnHTML+CSS.csproj.CoreCompileInputs.cache
+C:\Users\viole\OneDrive\Работен плот\HTML\RegistrationFormOnHTML+CSS\RegistrationFormOnHTML+CSS\obj\Debug\RegistrationFormOnHTML+CSS.exe
+C:\Users\viole\OneDrive\Работен плот\HTML\RegistrationFormOnHTML+CSS\RegistrationFormOnHTML+CSS\obj\Debug\RegistrationFormOnHTML+CSS.pdb
