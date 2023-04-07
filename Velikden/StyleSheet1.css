@@ -1,0 +1,111 @@
+﻿body
+{
+ background-color:#c7dfe3;
+   margin:0;
+   font-family:'Times New Roman'
+}
+h1{
+    text-align:center;
+    color:black;
+}
+h3{
+    font-style:italic;
+    text-align:center;
+    font-size:30px;
+}
+.quote{
+    font-size:23px;
+}
+p{
+    color:black;
+    text-align:justify;
+    font-size:25px;
+}
+.lazar{
+    text-align:center;
+}
+img{
+   margin-inline:30px;
+   width:550px;
+   height:300px;
+}
+
+.nav{
+  background-color:white; 
+  height:50px;
+  padding-left:250px;
+}
+li{
+    list-style:none;
+    display:inline;
+    margin-inline:40px;
+    font-size:25px;
+    padding:0;
+    text-decoration:none;
+}
+.nav ul li {
+    display: inline-flex;
+    float: left;
+    margin-right: 50px;
+    font-size: 20px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    padding-left: 40px;
+    padding-right: 40px;
+    text-decoration: none;
+}
+
+    .nav ul li a {
+        color: black;
+        text-transform: uppercase;
+        text-decoration: none;
+    }
+
+.list li {
+    display: flex;
+    text-decoration: none;
+}
+
+.nav li ul {
+    position: absolute;
+}
+.nav li a {
+    display: block;
+    block-size: 60px 40px;
+    background: white;
+}
+.nav li{
+    position:relative;
+}
+.dropdown ul li {
+    display: block;
+}
+.nav li, nav li a
+{
+    float:left;
+
+}
+.nav li ul{
+    position:absolute;
+    margin:0;
+    padding:0;
+    top:100%;
+    display:none;
+}
+.nav li:hover>ul{
+    display:block;
+    font-size:50px;
+}
+
+.nav a:hover {
+    background-color: #c7dfe3;
+}
+table{
+    height:300px;
+    width:400px;
+    border:double;
+    border-color:#3435a2;
+}
+
+
+
